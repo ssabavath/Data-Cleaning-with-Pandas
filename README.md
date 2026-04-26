@@ -1,11 +1,12 @@
-# 📊 Data Cleaning Project using Pandas
 
-## 📌 Project Overview
+#  Data Cleaning Project using Pandas
+
+##  Project Overview
 This project focuses on cleaning a raw dataset using Python Pandas to make it ready for analysis.
 
 ---
 
-## 🧹 Data Cleaning Steps Performed
+## Data Cleaning Steps Performed
 
 - Deleted redundant/unnecessary columns
 - Renamed column names for better understanding
@@ -16,15 +17,15 @@ This project focuses on cleaning a raw dataset using Python Pandas to make it re
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
-- Python 🐍
-- Pandas 📊
+- Python 
+- Pandas 
 - Jupyter Notebook / VS Code
 
 ---
 
-## 📂 Dataset Processing Steps
+## Dataset Processing Steps
 
 1. Loaded raw dataset using pandas
 2. Explored dataset structure
@@ -33,8 +34,10 @@ This project focuses on cleaning a raw dataset using Python Pandas to make it re
 
 ---
 
-## 🚀 Outcome
+## Outcome
 
 The dataset is now clean, structured, and ready for visualization or machine learning tasks.
 
 
+
+# Data-Cleaning-with-Pandas
