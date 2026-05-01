@@ -216,4 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+<<<<<<< HEAD
 zomato.csv
+=======
+>>>>>>> 1155457f2446ff418c447cfc27a3606eed0a2614
